@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="200" src="https://user-images.githubusercontent.com/87772120/159756370-7d72fcc8-26f7-44dc-b7d6-9b751cca80ed.png"
+  <img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159756370-7d72fcc8-26f7-44dc-b7d6-9b751cca80ed.png"
        </p>
 
 
@@ -35,12 +35,8 @@ Applied technologies:
 	
 	
 <p align="left">
-	<img width="100" height="100" src="https://user-images.githubusercontent.com/87772120/159752194-2aa266d8-14cf-4918-add1-cebf96f0d0a6.png"
+	<img width="100" height="100" src="https://user-images.githubusercontent.com/87772120/159757447-f8e814e7-c076-4980-833e-2f9c1bd61863.png"
 	     </p>
-	
-
-	
-# Result to prediction with Prophet
 
 
 <p align="center">
@@ -83,6 +79,8 @@ see more in: https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn
 [Jupyter Notebook](https://jupyter.org/)
 	
 [PyPI Package](https://pypi.org/)
+	
+[Pytho](https://www.python.org/)
 
 	
 ps.: This project is not intended to guide, advise or indicate the marking of cryptocurrencies for purchase and/or sale, nor is it intended to analyze the commercial situation of companies. The main objective of this work is to present my technical skills in data processing and analysis, as well as in the implementation of machine learning algorithms.
