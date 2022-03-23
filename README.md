@@ -10,16 +10,32 @@ example:====
 
 
 tecnology:
-Prophet 
+
+
+<p align="left">
+	<img width="80" height="70" src="https://user-images.githubusercontent.com/87772120/159752194-2aa266d8-14cf-4918-add1-cebf96f0d0a6.png"
+</p>
+![PyPI Package](https://pypi.org/)
+
+
+
 	
 <p align="left">
 	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
 </p>
+![Prophet](https://facebook.github.io/prophet/)
+	
 
-	Jupyter notebook
+
 <p align="left">
-	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png"](https://jupyter.org/)
+	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png"]
 </p> 
+![Jupyter Notebook](https://jupyter.org/)
+	
+<p align="left">
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159752663-21ce91b4-b582-4a35-bab5-a78a52652115.png"
+	     </p>
+
 
 
 ps.: This project is not intended to guide, advise or indicate the marking of cryptocurrencies for purchase and/or sale, nor is it intended to analyze the commercial situation of companies. The main objective of this work is to present my technical skills in data processing and analysis, as well as in the implementation of machine learning algorithms.
