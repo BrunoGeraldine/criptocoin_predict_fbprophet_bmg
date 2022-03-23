@@ -12,6 +12,11 @@ example:====
 tecnology:
 
 <p align="left">
+	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159754471-50912611-bc05-4dd6-8e56-5a678c22b7a3.png"
+	     </p>
+	
+
+<p align="left">
 	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
 	     </p>
 
@@ -25,6 +30,13 @@ tecnology:
 	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159752663-21ce91b4-b582-4a35-bab5-a78a52652115.png"
 	     </p>
 
+	
+<p align="left">
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159754895-6005d1d0-acc0-4e88-bc20-403be6981c88.png"
+	     </p>
+
+	
+	
 <p align="left">
 	<img width="100" height="100" src="https://user-images.githubusercontent.com/87772120/159752194-2aa266d8-14cf-4918-add1-cebf96f0d0a6.png"
 	     </p>
@@ -56,7 +68,15 @@ yfinance is not affiliated, endorsed, or vetted by Yahoo, Inc. It's an open-sour
 
 see more in: https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.htm
 	
+[pandas](https://pandas.pydata.org/docs/)
+	
+[Plotly Graph](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Figure.html)
+	
 [Prophet](https://facebook.github.io/prophet/)
+	
 [Yfinance](https://pypi.org/project/yfinance/)
+	
 [Jupyter Notebook](https://jupyter.org/)
+	
 [PyPI Package](https://pypi.org/)
+
