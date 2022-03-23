@@ -18,7 +18,7 @@ Prophet
 
 	Jupyter notebook
 <p align="left">
-	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png" [Kaggle](https://jupyter.org/)
+	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png"](https://jupyter.org/)
 </p> 
 
 
