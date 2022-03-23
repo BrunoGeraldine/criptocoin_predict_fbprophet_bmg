@@ -12,14 +12,12 @@ example:====
 tecnology:
 
 <p align="left">
-	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
+	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
 	     </p>
 
 	
-
-
 <p align="left">
-	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png"]
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png"]
 	     </p> 
 
 	
@@ -28,7 +26,7 @@ tecnology:
 	     </p>
 
 <p align="left">
-	<img width="80" height="70" src="https://user-images.githubusercontent.com/87772120/159752194-2aa266d8-14cf-4918-add1-cebf96f0d0a6.png"
+	<img width="100" height="100" src="https://user-images.githubusercontent.com/87772120/159752194-2aa266d8-14cf-4918-add1-cebf96f0d0a6.png"
 	     </p>
 	
 
@@ -41,14 +39,15 @@ ps.: This project is not intended to guide, advise or indicate the marking of cr
 
 
 
-Yfinance https://pypi.org/project/yfinance/
 
-![image](https://user-images.githubusercontent.com/87772120/159743379-76f08af0-19a6-4627-be34-1e67e2107fbf.png)
+
+
 
 
 Yahoo!
-![image](https://user-images.githubusercontent.com/87772120/159743137-637bee94-8553-4b5c-8592-15397e6cc7ee.png)
-
+<p align="left">
+	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159743137-637bee94-8553-4b5c-8592-15397e6cc7ee.png"
+	     </p>
 
 *** IMPORTANT LEGAL DISCLAIMER ***
 Yahoo!, Y!Finance, and Yahoo! finance are registered trademarks of Yahoo, Inc.
@@ -57,6 +56,7 @@ yfinance is not affiliated, endorsed, or vetted by Yahoo, Inc. It's an open-sour
 
 see more in: https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.htm
 	
-![Prophet](https://facebook.github.io/prophet/)
-![Jupyter Notebook](https://jupyter.org/)
-![PyPI Package](https://pypi.org/)
+[Prophet](https://facebook.github.io/prophet/)
+[Yfinance](https://pypi.org/project/yfinance/)
+[Jupyter Notebook](https://jupyter.org/)
+[PyPI Package](https://pypi.org/)
