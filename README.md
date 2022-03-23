@@ -1,19 +1,12 @@
-![image](https://user-images.githubusercontent.com/87772120/159756370-7d72fcc8-26f7-44dc-b7d6-9b751cca80ed.png)
+<p align="center">
+  <img width="1000" height="200" src="https://user-images.githubusercontent.com/87772120/159756370-7d72fcc8-26f7-44dc-b7d6-9b751cca80ed.png"
+       </p>
 
 
 
 This project is a fast delivery representation for predictive analysis of asset values and aims to present the application of Prophet for non-linear time series forecasting.
 
-example:====
- 
-
-
-
-  ======
-
-
-
-tecnology:
+Applied technologies:
 
 <p align="left">
 	<img width="120" height="40"  src="https://user-images.githubusercontent.com/87772120/159754471-50912611-bc05-4dd6-8e56-5a678c22b7a3.png"
@@ -46,15 +39,24 @@ tecnology:
 	     </p>
 	
 
+	
+# Result to prediction with Prophet
 
 
+<p align="center">
+	<img width="800" height="200" src="https://user-images.githubusercontent.com/87772120/159749243-0c1d791e-0572-4cad-ac21-af4713521c4c.png"
+	     </p>
+					  
+				   
 
-![image](https://user-images.githubusercontent.com/87772120/159749243-0c1d791e-0572-4cad-ac21-af4713521c4c.png)
+	_Bollinger Bands use a measure, the standard deviation, to establish the most likely "point" to find a support and resistance level on a price chart. This is a specific use of a broader concept known as a volatility channel. A volatility channel draws lines above and below a central price measure on trading charts. These lines, also known as envelopes or bands, increase and contract according to the volatility, or not, of the observed market._
 
+Bollinger Bands measure market volatility and provide a lot of useful information such as:
 
-
-
-
+* The continuation or reversal of the market trend
+* Market consolidation periods
+* The periods of the next major volatility breakouts
+* Possible highs and lows of the market, and potential price targets
 
 
 
