@@ -1,4 +1,8 @@
-# criptocoin_predict_fbprophet-bmg
+![image](https://user-images.githubusercontent.com/87772120/159756370-7d72fcc8-26f7-44dc-b7d6-9b751cca80ed.png)
+
+
+
+This project is a fast delivery representation for predictive analysis of asset values and aims to present the application of Prophet for non-linear time series forecasting.
 
 example:====
  
@@ -44,8 +48,6 @@ tecnology:
 
 
 
-ps.: This project is not intended to guide, advise or indicate the marking of cryptocurrencies for purchase and/or sale, nor is it intended to analyze the commercial situation of companies. The main objective of this work is to present my technical skills in data processing and analysis, as well as in the implementation of machine learning algorithms.
-
 
 ![image](https://user-images.githubusercontent.com/87772120/159749243-0c1d791e-0572-4cad-ac21-af4713521c4c.png)
 
@@ -68,7 +70,7 @@ yfinance is not affiliated, endorsed, or vetted by Yahoo, Inc. It's an open-sour
 
 see more in: https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.htm
 	
-[pandas](https://pandas.pydata.org/docs/)
+[Pandas](https://pandas.pydata.org/docs/)
 	
 [Plotly Graph](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Figure.html)
 	
@@ -80,3 +82,5 @@ see more in: https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn
 	
 [PyPI Package](https://pypi.org/)
 
+	
+ps.: This project is not intended to guide, advise or indicate the marking of cryptocurrencies for purchase and/or sale, nor is it intended to analyze the commercial situation of companies. The main objective of this work is to present my technical skills in data processing and analysis, as well as in the implementation of machine learning algorithms.
