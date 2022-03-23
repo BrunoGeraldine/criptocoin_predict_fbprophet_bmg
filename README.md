@@ -1,4 +1,27 @@
 # criptocoin_predict_fbprophet-bmg
+
+example:====
+<p align="left">
+	<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/141834545-f9186e6f-b2e6-4cd8-ae45-60df39a57d8e.png"
+</p>  
+     
+<p align="left">
+<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815386-40bfef66-6fda-44f5-99fb-2c3675176acf.png"
+</p>
+
+<p align="left">
+<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815830-d8ed34a3-0272-4d1f-b4dc-6eb11848deaf.png"
+</p>
+  
+  ======
+
+
+
+tecnology:
+Prophet ![image](https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png)
+
+
+
 ps.: This project is not intended to guide, advise or indicate the marking of cryptocurrencies for purchase and/or sale, nor is it intended to analyze the commercial situation of companies. The main objective of this work is to present my technical skills in data processing and analysis, as well as in the implementation of machine learning algorithms.
 
 
