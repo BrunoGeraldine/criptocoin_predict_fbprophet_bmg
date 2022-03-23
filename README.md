@@ -40,12 +40,12 @@ Applied technologies:
 
 
 <p align="center">
-	<img width="800" height="200" src="https://user-images.githubusercontent.com/87772120/159749243-0c1d791e-0572-4cad-ac21-af4713521c4c.png"
+	<img width="800" height="600" src="https://user-images.githubusercontent.com/87772120/159749243-0c1d791e-0572-4cad-ac21-af4713521c4c.png"
 	     </p>
 					  
 				   
 
-	_Bollinger Bands use a measure, the standard deviation, to establish the most likely "point" to find a support and resistance level on a price chart. This is a specific use of a broader concept known as a volatility channel. A volatility channel draws lines above and below a central price measure on trading charts. These lines, also known as envelopes or bands, increase and contract according to the volatility, or not, of the observed market._
+ Bollinger Bands use a measure, the standard deviation, to establish the most likely "point" to find a support and resistance level on a price chart. This is a specific use of a broader concept known as a volatility channel. A volatility channel draws lines above and below a central price measure on trading charts. These lines, also known as envelopes or bands, increase and contract according to the volatility, or not, of the observed market.
 
 Bollinger Bands measure market volatility and provide a lot of useful information such as:
 
