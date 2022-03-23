@@ -2,23 +2,20 @@
 
 example:====
 <p align="left">
-	<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/141834545-f9186e6f-b2e6-4cd8-ae45-60df39a57d8e.png"
+	<img width="60" height="30" src="https://user-images.githubusercontent.com/87772120/141834545-f9186e6f-b2e6-4cd8-ae45-60df39a57d8e.png"
 </p>  
      
-<p align="left">
-<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815386-40bfef66-6fda-44f5-99fb-2c3675176acf.png"
-</p>
 
-<p align="left">
-<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815830-d8ed34a3-0272-4d1f-b4dc-6eb11848deaf.png"
-</p>
-  
   ======
 
 
 
 tecnology:
-Prophet ![image](https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png)
+Prophet 
+	
+<p align="left">
+	<img width="60" height="30" src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
+</p>
 
 
 
