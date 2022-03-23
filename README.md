@@ -11,30 +11,26 @@ example:====
 
 tecnology:
 
-
-<p align="left">
-	<img width="80" height="70" src="https://user-images.githubusercontent.com/87772120/159752194-2aa266d8-14cf-4918-add1-cebf96f0d0a6.png"
-</p>
-![PyPI Package](https://pypi.org/)
-
-
-
-	
 <p align="left">
 	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159750038-040ff478-07b8-45dc-9677-644cf9331a3e.png"
-</p>
-![Prophet](https://facebook.github.io/prophet/)
+	     </p>
+
 	
 
 
 <p align="left">
 	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png"]
-</p> 
-![Jupyter Notebook](https://jupyter.org/)
+	     </p> 
+
 	
 <p align="left">
 	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159752663-21ce91b4-b582-4a35-bab5-a78a52652115.png"
 	     </p>
+
+<p align="left">
+	<img width="80" height="70" src="https://user-images.githubusercontent.com/87772120/159752194-2aa266d8-14cf-4918-add1-cebf96f0d0a6.png"
+	     </p>
+	
 
 
 
@@ -60,3 +56,7 @@ Yahoo!, Y!Finance, and Yahoo! finance are registered trademarks of Yahoo, Inc.
 yfinance is not affiliated, endorsed, or vetted by Yahoo, Inc. It's an open-source tool that uses Yahoo's publicly available APIs, and is intended for research and educational purposes.
 
 see more in: https://policies.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.htm
+	
+![Prophet](https://facebook.github.io/prophet/)
+![Jupyter Notebook](https://jupyter.org/)
+![PyPI Package](https://pypi.org/)
